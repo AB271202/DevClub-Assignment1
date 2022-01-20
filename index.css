@@ -78,7 +78,7 @@ img{
     width:25%;
 }
 table{
-    width:75%;
+    padding:1em;
     margin:auto;
     border-collapse: collapse;
     border: 5px solid #00291a ;
